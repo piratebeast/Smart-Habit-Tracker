@@ -1,0 +1,3 @@
+MONGODB_URI="mongodb+srv://shishirLab:shishir123@cluster0.hfwlojm.mongodb.net/Smart_habit_tracker?retryWrites=true&w=majority&appName=Cluster0"
+NEXTAUTH_URL="http://localhost:3000"
+NEXTAUTH_SECRET="super-secret-key-123"
